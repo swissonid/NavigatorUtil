@@ -1,5 +1,5 @@
 # NavigatorUtil
-Ah simple class (lib) what should help you to handle with the FragmentManger
+Ah simple class (lib) which should help you to handle with the FragmentManger
 
 
 # TODOS
